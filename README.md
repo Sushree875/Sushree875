@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushree</h1>
-<h3 align="center">A passionate full stack developement</h3>
+<h3 align="center">A passionate full stack web developement</h3>
 
 - 🌱 I’m currently learning **full stack development with AI**
 
